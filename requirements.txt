@@ -27,3 +27,4 @@ torchmetrics
 tiktoken
 jsonlines
 tensorboardX
+gradio
